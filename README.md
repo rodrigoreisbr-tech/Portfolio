@@ -21,7 +21,7 @@ He has a degree in Information System and a MBA in Data Engineering from FIAP.  
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise dos Dados do Airbnb - Vancouver BC:** https://bit.ly/37jNUdw
+* **Análise dos Dados do Airbnb - Vancouver BC:** https://bit.ly/37jNUdw (em andamento)
 
 ---
 
