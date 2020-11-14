@@ -20,7 +20,7 @@ He has a degree in Information System and a MBA in Data Engineering from FIAP.  
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise dos Dados do Airbnb - Vancouver BC:** https://bit.ly/37jNUdw 
-* **Análise exploratoria:** https://bit.ly/37jNUdw (em andamento)
+* **Análise dos Dados do Airbnb Vancouver BC:** https://bit.ly/37jNUdw 
+* **Análise da Violência no Rio de Janeiro:** https://github.com/rodrigoreisbr-tech/data_science/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb
 ---
 
