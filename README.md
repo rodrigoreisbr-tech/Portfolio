@@ -15,13 +15,12 @@ He has a degree in Information System and a MBA in Data Engineering from FIAP.  
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rodrigoreisbr/)
-* [Medium](https://www.medium.com)
 
 
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise dos Dados do Airbnb - Vancouver BC:** https://bit.ly/37jNUdw (em andamento)
-
+* **Análise dos Dados do Airbnb - Vancouver BC:** https://bit.ly/37jNUdw 
+* **Análise exploratoria:** https://bit.ly/37jNUdw (em andamento)
 ---
 
