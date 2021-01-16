@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rodrigoreisbr/)
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFUn5hzcGEa5w/profile-displaybackgroundimage-shrink_350_1400/0?e=1608163200&v=beta&t=8kE8KogSEcWhYtswbUliKdJEF2pBDXG9jNf4ht4isQI" >
+  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFUn5hzcGEa5w/profile-displaybackgroundimage-shrink_350_1400/0/1602589880732?e=1616025600&v=beta&t=q1s_0ntAjBnMD_H4D7MZ9FCYaGSQs_wX8bLkCOI2ls4" >
 </p>
 
 Experienced IT coordinator with several years of experience working in the Information Technology field.  Motivated by innovation combined with his analytical and problem-solving skills, he has provided significant business insights improving stakeholder’s decision-make process. He is a great communicator who enjoys teamwork.
@@ -20,7 +20,7 @@ He has a degree in Information System and a MBA in Data Engineering from FIAP.  
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise dos Dados do Airbnb Vancouver BC:** https://bit.ly/37jNUdw 
-* **Análise da Violência no Rio de Janeiro:** https://bit.ly/3psyY5p
+* **Análise dos Dados do Airbnb Vancouver BC:** https://bit.ly/DadosAirbnb
+* **Análise da Violência no Rio de Janeiro:** https://bit.ly/ViolenciaRio
 ---
 
