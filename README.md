@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="/img/banner-2.png" >
+  <img src="https://github.com/rodrigoreisbr-tech/data_science/blob/master/img/banner-2.png?raw=true" >
 </p>
 
 
